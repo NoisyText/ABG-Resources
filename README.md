@@ -1,9 +1,9 @@
 # Anywhere-Board-Games
-Github repository for Anywhere Board Games (http://anywhereboardgames.com/). 
+Github repository for Anywhere Board Games (http://anywhereboardgames.com/). Credit for the original code goes to [doctor_butch over on SourceForge.org](http://sourceforge.net/u/userid-66675/profile/)
 
 ---
 
-Everything used to start this repository was originally found on the SourceForge page (http://sourceforge.net/projects/boardgamearena/).
+Everything used to start this repository was originally found [on the SourceForge page] (http://sourceforge.net/projects/boardgamearena/).
 
 ---
 
