@@ -12,7 +12,7 @@
 
 ---
 #### Introduction to this repository 
-Unfortunately I'm not a programmer, but I want other people on Github to find out about Anywhere Board Games in the hopes that you will enjoy it and contribute to the project. This is my Github placeholder for Anywhere Board Games (http://anywhereboardgames.com/). Credit for the program goes to [doctor_butch over on SourceForge.org](http://sourceforge.net/u/userid-66675/profile/). 
+Unfortunately I'm not a programmer, but I want other people on Github to find out about Anywhere Board Games in the hopes that you will enjoy it and contribute to the project. This is my Github placeholder for Anywhere Board Games (http://anywhereboardgames.com/). Credit for the program goes to [Robert Buccigrossi (doctor_butch) over on SourceForge.org](http://sourceforge.net/u/userid-66675/profile/). 
 
 I found Anywhere Board Games (ABG) when I was looking for a way to play checkers through a browser without people having to sign up or download anything. 
 
