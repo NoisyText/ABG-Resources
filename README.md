@@ -40,4 +40,7 @@ Please DO NOT submit images or resources from material you do not own the copyri
 Some ideas for game resources that could be added here:
 * Chinese checkers
 * https://boardgamegeek.com/boardgamepublisher/171/public-domain
+* 
+Other resources and links
+* https://boardgamegeek.com/thread/775389/open-source-board-game-web-platform-beta-anywhere 
 
